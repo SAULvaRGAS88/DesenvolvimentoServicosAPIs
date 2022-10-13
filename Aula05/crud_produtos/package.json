@@ -1,0 +1,16 @@
+{
+  "name": "crud_produtos",
+  "version": "1.0.0",
+  "description": "Teste Unitario do crud_produtos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Saul Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}

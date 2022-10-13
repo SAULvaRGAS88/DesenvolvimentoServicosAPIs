@@ -1,0 +1,17 @@
+{
+  "name": "soma_teste",
+  "version": "1.0.0",
+  "description": "Teste Unitario com soma",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest",
+    "test-cobertura": "jest --coverage" 
+  },
+  "keywords": [],
+  "author": "Saul Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
